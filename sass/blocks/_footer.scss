@@ -1,0 +1,52 @@
+/* saytning pastgi stillar uchun */
+
+.footer {
+    max-width: 1280px;
+    height: 120px;
+    margin-top: 216px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:  #2C343E;
+}
+
+.footer__container {
+    display: flex;
+    align-items: center;
+    margin-top: 18px;
+}
+
+.footer__list {
+    display: flex;
+    margin-left: 56px;
+    
+}
+.footer__item {
+    padding: 26px;
+}
+.footer__link {
+    color:#83888F;
+}
+
+.footer__link:hover{
+    color: #FEFCF7;
+}
+
+.footer__link:active{
+    color: rgba(226, 236, 236, 0.685);
+}
+
+.instagram__img {
+    padding: 2px;
+}
+
+
+.footer__item-mobile{
+    padding: 20px;
+
+}
+
+
+.footer__list-2{
+    display: flex;
+    margin-left: 304px;
+}
